@@ -6,6 +6,8 @@ Binary calculator - Calculator uses Binary numbers
 
 * Have option for reset
 
+* Can handle 2 operand and 1 operator at a time
+
 Example:
 
 B(011 + 111) = D(3+7) = D(10) = B(1010)
